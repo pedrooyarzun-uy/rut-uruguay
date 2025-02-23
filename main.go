@@ -1,0 +1,1 @@
+package rut_uruguay
